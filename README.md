@@ -5,7 +5,7 @@
   - Invenio-based Repository
   - Works with researchers
 
-[Catech Data Repository](https://data.caltech.edu)
+[Caltech Data Repository](https://data.caltech.edu)
 
   ### Code Examples
   ```
